@@ -1,0 +1,6 @@
+Inter-Regular.ttf
+Inter-SemiBold.ttf
+Manrope-Regular.ttf
+Manrope-SemiBold.ttf
+NunitoSans-Regular.ttf
+NunitoSans-SemiBold.ttf
